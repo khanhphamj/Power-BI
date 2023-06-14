@@ -1,4 +1,5 @@
-![Background](https://www.google.com/search?q=logo+power+bi&tbm=isch&ved=2ahUKEwj3nNTZwML_AhXyplYBHV-_CEwQ2-cCegQIABAA&oq=logo&gs_lcp=CgNpbWcQARgAMgcIABCKBRBDMgoIABCKBRCxAxBDMgcIABCKBRBDMgcIABCKBRBDMgcIABCKBRBDMgcIABCKBRBDMgcIABCKBRBDMggIABCxAxCDATIICAAQgAQQsQMyCAgAEIAEELEDOgQIIxAnOgcIIxDqAhAnOgUIABCABFDlB1jpEWC-IGgBcAB4AIABvAKIAcEJkgEHMC4xLjIuMpgBAKABAaoBC2d3cy13aXotaW1nsAEKwAEB&sclient=img&ei=HJCJZPeeF_LN2roP3_6i4AQ&bih=569&biw=1280#imgrc=SH0kq9s6O8aNKM)
+![Background](https://1000logos.net/microsoft-power-bi-logo/)
+
 # Power-BI
 This is an excellent Power BI dashboard for visualizing your data. You can use Power BI to quickly create reports, charts, and data visualizations from various data sources. This dashboard has been designed to provide a clear and engaging overview of your data
 <img width="837" alt="image" src="https://github.com/khanhphamj/Power-BI/assets/120659979/423bb3ce-343d-459c-bd94-1e3636ec3dc4">
