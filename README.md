@@ -1,5 +1,3 @@
-![Background](https://1000logos.net/microsoft-power-bi-logo/)
-
 # Power-BI
 This is an excellent Power BI dashboard for visualizing your data. You can use Power BI to quickly create reports, charts, and data visualizations from various data sources. This dashboard has been designed to provide a clear and engaging overview of your data
 <img width="837" alt="image" src="https://github.com/khanhphamj/Power-BI/assets/120659979/423bb3ce-343d-459c-bd94-1e3636ec3dc4">
@@ -18,7 +16,6 @@ This is an excellent Power BI dashboard for visualizing your data. You can use P
 2. Open Power BI Desktop and open the downloaded `.pbix` file.
 3. Customize the dashboard to fit your data and requirements.
 4. Save and publish your dashboard as a `.pbix` file or export the report as a PDF, PNG, or other formats.
-5. Share the report with others or embed it into your applications.
 
 ## System Requirements
 
